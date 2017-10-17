@@ -1,0 +1,14 @@
+{
+  "name": "chrome-devtools-talk",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "1": "cd 1-static-coverage && node coverage"
+  },
+  "author": "Karan Thakkar <karanjthakkar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-launcher": "^0.8.1",
+    "chrome-remote-interface": "^0.25.1"
+  }
+}
